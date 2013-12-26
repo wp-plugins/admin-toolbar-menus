@@ -1,7 +1,7 @@
 === Admin Toolbar Menus ===
 Contributors: Benbodhi
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F7W2NUFAVQGW2
-Tags: toolbar, admin, menu, menus
+Tags: toolbar, admin, menu, menus, wplogo
 Requires at least: 3.4
 Tested up to: 3.8
 Stable tag: trunk
@@ -13,20 +13,20 @@ Seamlessly adds 3 new menu locations to the admin toolbar and removes the WP log
 == Description ==
 
 Add 3 new menu locations to the WordPress toolbar so you can quickly and easily create your own custom toolbar menus using the built in WordPress menus page.<br />
-Supports multi level and works seamlessly with the existing toolbar.<br /><br />
-First menu location is under the 'Site Name' menu dropdown on the left side.<br />
-Second menu location is along the main toolbar.<br />
-Third menu location is under the 'Howdy / My Account' dropdown.<br /><br />
+Supports multi level and works seamlessly with the existing toolbar menus.<br /><br />
+* First menu location is under the 'Site Name' menu dropdown on the left side.
+* Second menu location is along the main toolbar.
+* Third menu location is under the 'Howdy / My Account' dropdown.
 Also removes the WP Logo menu from the top left of the toolbar.<br /><br />
 Super simple to use, just like building any other menu in WordPress using the menus page.<br />
 No settings, just 'plug and play'.
 
-Some of the features included:
+= Features =
 
-*   Simple toolbar menu customization using WordPress menus
-*   Removes WP logo menu from the top left of the admin toolbar
-*   Seamless integration with the existing WordPress menus
-*   No Settings, just 'plug and play'
+* Simple toolbar menu customization using WordPress menus
+* Removes WP logo menu from the top left of the admin toolbar
+* Seamless integration with the existing WordPress menus
+* No Settings, just 'plug and play'
 
 = Translations =
 
@@ -43,21 +43,23 @@ For translating I recommend the awesome ["Codestyling Localization" plugin](http
 * Follow me on [my Facebook page](http://www.facebook.com/gowebben)
 * Or circle [+GoWebben](http://googleplus.url) on Google Plus ;-)
 
-*Note:* This is the first plugin I have submitted to the WordPress repository, so I hope you like it. Please rate it and feel free to send me any suggestions.
+*Note:* This is the first plugin I have submitted to the WordPress repository, I hope you like it. Please take a moment to rate it and click 'works' under compatibility with your version of WP.<br />As always, feel free to send me any suggestions.
 
 == Installation ==
 
 To install this plugin:
 
+= via FTP =
 1. Upload folder `admin-toolbar-menus` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Visit the menus page under Appearance > Menus to create your new menus
+3. Visit the menus page under 'Appearance' > 'Menus' to create your new menus
 
 Or
 
+= via wp-admin =
 1. Upload the compressed version `admin-toolbar-menus.zip` through 'Plugins' > 'Add New' > 'Upload'
 2. Click 'Activate Plugin'
-3. Visit the menus page under Appearance > Menus to create your new menus
+3. Visit the menus page under 'Appearance' > 'Menus' to create your new menus
 
 == Frequently Asked Questions ==
 
@@ -77,18 +79,27 @@ Nope! If you don't assign a menu to the locations, they simply won't show up.
 
 1. 3 new toolbar menu locations added to your existing locations.
 2. You can see the new locations below when creating your menus.
-3. Example main toolbar menu with multi level flyout.
+3. Example main toolbar menu with multi level flyout *(you can also see how it was created)*
 4. Example menu under the 'My Account' section. Great for membership sites!
 5. Example menu under the 'My Site' menu, viewed from backend.
 6. Example menu under the 'My Site' menu, viewed from frontend.
 
 == Changelog ==
 
+= 1.0.1 =
+
+* Cleaned up readme.txt file a bit to look nicer in the repository.
+* Modified a screenshot to display the plugin's features more prominently.
+
 = 1.0 =
 
 * Initial Release.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+
+Updated and cleaned up the plugin page's appearance on wordpress.org (readme.txt file and a screenshot).
 
 = 1.0 =
 
@@ -106,7 +117,7 @@ Initial Release.
 
 == Future Features ==
 * More power over menu locations with options to pick which locations you want to use and the menu order in relation to existing WordPress menus.
-* Options page to remove other standard toolbar menu items. *(you can uncomment these in the code now if you're keen ;)*
+* Options page to remove other standard toolbar menu items.<br />*(you can uncomment these in the code now if you're keen ;)*<br /><br />
 Again, feel free to [shoot me suggestions](mailto:wp@benbodhi.com)
 
 == Credits ==

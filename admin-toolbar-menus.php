@@ -214,7 +214,11 @@ function bodhi_atm_add_admin_menus() {
 add_action( 'admin_bar_menu', 'bodhi_atm_add_admin_menus', 35 );
 
 /*
-* remove existing menu items
+*	remove existing menu items
+*
+*	this feature will be built upon in future versions.
+*	you can simply uncomment any menu items you would like removed for now though ;)
+*
 */
 function bodhi_atm_remove_admin_menus() {
 
