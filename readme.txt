@@ -13,11 +13,12 @@ Seamlessly adds 3 new menu locations to the admin toolbar and removes the WP log
 == Description ==
 
 Add 3 new menu locations to the WordPress toolbar so you can quickly and easily create your own custom toolbar menus using the built in WordPress menus page.<br />
-Supports multi level and works seamlessly with the existing toolbar menus.<br /><br />
+Supports multi level and works seamlessly with the existing toolbar menus.
 * First menu location is under the 'Site Name' menu dropdown on the left side.
 * Second menu location is along the main toolbar.
 * Third menu location is under the 'Howdy / My Account' dropdown.
-Also removes the WP Logo menu from the top left of the toolbar.<br /><br />
+Also removes the WP Logo menu from the top left of the toolbar.
+
 Super simple to use, just like building any other menu in WordPress using the menus page.<br />
 No settings, just 'plug and play'.
 
