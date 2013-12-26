@@ -3,7 +3,7 @@
 * Plugin Name: 	Admin Toolbar Menus
 * Plugin URI: 	http://gowebben.com
 * Description: 	Seamlessly adds 3 new menu locations to the admin toolbar and removes the WP logo menu.
-* Version: 		1.0
+* Version: 		1.0.1
 * Author: 		Benbodhi
 * Author URI: 	http://benbodhi.com
 * Text Domain: 	admin-toolbar-menus
