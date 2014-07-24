@@ -122,7 +122,10 @@ Initial Release.
 
 == Future Features ==
 * More power over menu locations with options to pick which locations you want to use and the menu order in relation to existing WordPress menus.
-* Options page to remove other standard toolbar menu items.<br />*(you can uncomment these in the code now if you're keen ;)*<br /><br />
+* Options page to remove other standard toolbar menu items.<br />*(you can uncomment these in the code now if you're keen ;)*
+* Ability to change the WordPress "Howdy" welcome message
+
+
 Again, feel free to [shoot me suggestions](mailto:wp@benbodhi.com)
 
 == Credits ==
