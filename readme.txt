@@ -3,7 +3,7 @@ Contributors: Benbodhi
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F7W2NUFAVQGW2
 Tags: toolbar, admin, menu, menus, wplogo, adminbar, topbar, bar
 Requires at least: 3.4
-Tested up to: 4.0
+Tested up to: 4.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
